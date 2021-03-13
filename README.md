@@ -15,7 +15,8 @@ We have created this website to make it all simpler for them. We have looked at 
 
 
 * An exclusive psychiatric column which proposes the importance of meditation and inspires to make it a daily habit .Meditation produces a deep state of relaxation and a tranquil mind. Adding it to an everyday lifestyle keeps us relaxed thereby increasing  the productivity.The psychiatric column includes videos such as proper meditation poses ,soothing vibrations for relaxation of mind and yoga asanas for healthy body and mind.
-![image](https://user-images.githubusercontent.com/76087547/111040414-dcb88200-8458-11eb-9f70-708faf0e80ce.png)
+![image](https://user-images.githubusercontent.com/76087547/111040555-67997c80-8459-11eb-96d1-77f8264cf8c7.png)
+
 
 
 * Music page contains a soothing track of music which calms the entire body .It is scientifically proven that music lowers Stress and Improves Health Condition.With such wonderful benefits adding music page becomes vital to make our website accomplished.
